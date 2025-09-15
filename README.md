@@ -1,5 +1,5 @@
 # Comparador3Numeros
-Se creao un programa en Javascript que realizara lo siguiente:
+Se creó un programa en Javascript que realizara lo siguiente:
 
 Solicitar al usuario 3 números por prompt y almacenarlos en variables respectivamente.
 Debe analizar los números, identificar cual es el número mayor, el número del centro y el número menor.
